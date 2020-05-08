@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReceiptsCurs</string>
+    <string name="app_prefs_file">receipts_prefs</string>
+</resources>
